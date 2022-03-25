@@ -4,7 +4,8 @@ import Header from './Header'
 function App() {
   return (
     <>
-       <Header />
+       <Header title="Meu primeiro component React" />
+       <Header title="Um componente com props" />
        <h2>
         Senac Campinas
       </h2>
